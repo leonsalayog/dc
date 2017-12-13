@@ -1,0 +1,47 @@
+/*
+Theme Name: Dcleaners
+Theme URI: https//www.dcleaners.com
+Template: twentyseventeen
+Author: glosstech.io
+Author URI: https://www.glosstech.io/
+Tags: one-column,two-columns,right-sidebar,flexible-header,accessibility-ready,custom-colors,custom-header,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,post-formats,rtl-language-support,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 1.4.1513016954
+Updated: 2017-12-11 18:29:14
+
+*/
+
+h1{
+
+}
+h2{
+    
+}
+h3{
+    
+}
+h4{
+    
+}
+h5{
+    
+}
+p{
+    
+}
+/* general site css */
+/* header style */
+
+
+@media (max-width : 768px){
+
+}
+@media (max-width : 425px){
+    .hidden-on-mobile{
+        display: none;
+    }
+}
+@media only screen 
+and (max-device-width : 768px)  
+and (orientation : landscape) {
+
+}
